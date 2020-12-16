@@ -1,0 +1,47 @@
+#
+#   Navigation to the left › side: left
+#
+
+- title: Accueil
+  url: "/"
+  side: left
+
+- title: Soumissions
+  url: "/soumissions"
+  side: left
+
+- title: Satellites
+  url: "/satellites"
+  side: left
+
+- title: Programme
+  url: "/programme"
+  side: left
+
+- title: Keynotes
+  url: "/keynotes"
+  side: left
+
+- title: Inscription
+  url: "/inscription"
+  side: left
+
+- title: Comités
+  url: "/comites"
+  side: left
+
+- title: Venir à Lyon
+  url: "/venue"
+  side: left
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
+

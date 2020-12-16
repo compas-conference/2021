@@ -1,0 +1,15 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+
+leobago: # replace this with your info
+  name: "F. Suter"
+  siterole: "webmaster"
+  uri: http://graal.ens-lyon.fr/~fsuter
+  email: frederic.suter[at]cc[dot]in2p3[dot]fr
+  twitter: "@frs69wq"
+# you can add more authors here
