@@ -22,7 +22,7 @@ header:
  + Caroline Collange (Représentante Architecture, Rennes)
  + Fabien Hermenier (Organisateur 2017, Nice)
  + Kevin Martin (Représentant GDR SOC², Lorient)
- + Gilles Muller (Représentant Système, Rennes, Président)
+ + Gilles Muller (Représentant Système, Paris, Président)
  + Étienne Rivière (Représentant ASF, Bruxelles)
  + Philippe Roose (Organisateur 2019, Anglet)
  + Alain Tchana (Organisateur 2018, Toulouse)
