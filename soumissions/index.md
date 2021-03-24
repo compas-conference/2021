@@ -50,7 +50,7 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 ### **Dates importantes**
 
-- [Option 1 : Article] Échéance : **26 Mars 2021 (AoE)**
+- [Option 1 : Article] Échéance : **Extension 12 avril 2021 (AoE)**
 - [Option 2 : Résumé] Échéance : **16 Avril 2021 (AoE)**
 - Notification : **21 Mai 2021**
 
