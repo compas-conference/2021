@@ -11,7 +11,7 @@ header:
 ---
 
 |-------+-----------------+----------------+--------------------+-----------------+--------------------|
-|       | Lundi 29 juin   | Mardi 30 juin  | Mercredi 1 juillet | Jeudi 2 juillet | Vendredi 3 juillet |
+|       | Lundi 5 juillet | Mardi 6 juillet  | Mercredi 7 juillet | Jeudi 8 juillet | Vendredi 9 juillet |
 | 8h    |                 | Enregistrement |    Enregistrement  | Enregistrement  | Enregistrement     |
 | 8h30  |                 | Accueil        | Accueil            | Accueil         | Accueil            |
 |:-----:+:---------------:|:--------------:|:------------------:|:---------------:|:------------------:|
