@@ -10,16 +10,8 @@
   url: "/soumissions"
   side: left
 
-- title: Satellites
-  url: "/satellites"
-  side: left
-
 - title: Programme
   url: "/programme"
-  side: left
-
-- title: Keynotes
-  url: "/keynotes"
   side: left
 
 - title: Inscription
@@ -28,10 +20,6 @@
 
 - title: Comités
   url: "/comites"
-  side: left
-
-- title: Venir à Lyon
-  url: "/venue"
   side: left
 
 #- title: "Dropdown Menu"
