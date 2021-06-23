@@ -16,9 +16,9 @@ header:
 | 8h30  |   IA et Deep Learning  | Architectures matérielles avancées | Systèmes d'exploitation |     HPC            |
 | 10h35 |    **Pause**           |    **Pause**                       | **Pause**               |   **Pause**        |
 |:-----:+:----------------------:|:----------------------------------:|:-----------------------:|:------------------:|
-| 10h50 | Informatique quantique | Gestion mémoire                    | Sécurité                |  Optimisation      |
-|:-----:+:----------------------:|:----------------------------------:|                         |                    |
-| 11h40 | Discussions            |    WCET                            |                         |                    |
+| 10h50 | Informatique quantique | Optimisation                       | Sécurité                |  Gestion mémoire   |
+|:-----:+:----------------------:|                                    |                         |:------------------:|
+| 11h40 | Discussions            |                                    |                         |  WCET              |
 | 12h10 |         Fin            | Fin                                | Fin                     |  Fin               |
 |-------+------------------------+------------------------------------+-------------------------|--------------------|
 
@@ -61,17 +61,13 @@ header:
   + Arthur Blanleuil and Caroline Collange, **Scheduling paths leveraging dynamic information in SIMT architectures**
   + Kenelm Louetsi, David Parello and Bernard Goossens, **Un environnement de développement d’applications sur un processeur à beaucoup de cœurs parallélisant**
 
-#### Session Gestion mémoire
- **Chair:** TBA
+#### Session Optimisation
+**Chair:** TBA
 
-  + Erwan Lenormand, Thierry Goubier, Loïc Cudennec and Henri-Pierre Charles, **Modèle de programmation pour noyaux de calcul irréguliers sur accélérateur reconfigurable dans un système distribué hétérogène**
-  + Ana Khorguani, Thomas Ropars and Noel De Palma, **Trade-off between performance and transparency for in-NVMM checkpointing**
-
-#### Session WCET
- **Chair:** TBA
-
-  + Sandro Grebant, **Efficient tree-based symbolic WCET computation**
-  + Zhenyu Bai, Hugues Cassé, Marianne De Michiel, Thomas Carle and Christine Rochange, **Déterminer le WCET d’applications temps-réel en présence de latences d’exécution variables**
+  + Nathan Maurice, Julien Sopena and Lionel Lacassagne, **Un nouvel algorithme efficace de Split & Merge pour systèmes embarqués**
+  + Célia Mahamdi, Jonathan Lejeune, Julien Sopena, Pierre Sens and Mesaac Makpangou, **Réduire le coût de communication des algorithmes à phases par l’agrégation de messages : application à Paxos**
+  + Antoine Bernabeu, **Support d'exécution pour le calcul intermittent**
+  + Sophie Cerf, Raphaël Bleuse, Valentin Reis, Swann Perarnau and Eric Rutten, **Sustaining Performance While Reducing Energy Consumption : A Control Theory Approach**
 
 -----------------------------------------------
 
@@ -106,11 +102,15 @@ header:
   + Emmanuel Agullo, Marek Felsoci and Guillaume Sylvand, **Comparison of coupled solvers for FEM/BEM linear systems arising from discretization of aeroacoustic problems**
   + Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten, **Collecte de ressources libres dans une grille en préservant le système de fichiers : une approche autonomique**
 
-#### Session Optimisation
-**Chair:** TBA
+#### Session Gestion mémoire
+ **Chair:** TBA
 
-  + Nathan Maurice, Julien Sopena and Lionel Lacassagne, **Un nouvel algorithme efficace de Split & Merge pour systèmes embarqués**
-  + Célia Mahamdi, Jonathan Lejeune, Julien Sopena, Pierre Sens and Mesaac Makpangou, **Réduire le coût de communication des algorithmes à phases par l’agrégation de messages : application à Paxos**
-  + Antoine Bernabeu, **Support d'exécution pour le calcul intermittent**
-  + Sophie Cerf, Raphaël Bleuse, Valentin Reis, Swann Perarnau and Eric Rutten, **Sustaining Performance While Reducing Energy Consumption : A Control Theory Approach**
+  + Erwan Lenormand, Thierry Goubier, Loïc Cudennec and Henri-Pierre Charles, **Modèle de programmation pour noyaux de calcul irréguliers sur accélérateur reconfigurable dans un système distribué hétérogène**
+  + Ana Khorguani, Thomas Ropars and Noel De Palma, **Trade-off between performance and transparency for in-NVMM checkpointing**
+
+#### Session WCET
+ **Chair:** TBA
+
+  + Sandro Grebant, **Efficient tree-based symbolic WCET computation**
+  + Zhenyu Bai, Hugues Cassé, Marianne De Michiel, Thomas Carle and Christine Rochange, **Déterminer le WCET d’applications temps-réel en présence de latences d’exécution variables**
 
