@@ -77,6 +77,8 @@ compress_html:
   ignore:
     envs: [development]
 
+plugins:
+  - jekyll-spaceship
 
 #
 #       ____       ____            ____
