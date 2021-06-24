@@ -12,7 +12,7 @@ header:
 
 |       |      Mardi 6 juillet    |         Mercredi 7 juillet         |      Jeudi 8 juillet      | Vendredi 9 juillet |
 |:-----:|:-----------------------:|:----------------------------------:|:-------------------------:|:------------------:|
-|  8h30 | : IA et Deep Learning : | Architectures matérielles avancées |  Systèmes d'exploitation  |         HPC        |
+|  8h30 |  IA et Deep Learning    | Architectures matérielles avancées |  Systèmes d'exploitation  |         HPC        |
 |  9h45 |  ^^                     | ^^                                 |         **Pause**         |  ^^                |
 | 10h00 |  ^^                     | ^^                                 |          Sécurité         |  ^^                |
 | 10h35 |        **Pause**        |              **Pause**             |  ^^                       |      **Pause**     |
