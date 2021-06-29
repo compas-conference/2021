@@ -33,7 +33,7 @@ header:
 ### Mardi 6
 
 #### Session IA and deep learning
-  **Chair:** TBA
+  **Chair:** Mihail Popov
 
   + Hadjer Benmeziane, Kaoutar El Maghraoui, Hamza Ouarnoughi, Smail Niar, Martin Wistuba and Naigang Wang, **Hardware-Aware Neural Architecture Search: Survey and Taxonomy**
   + Camelia Slimani, Stéphane Rubini, Chun-Feng Wu, Yuan-Hao Chang and Jalil Boukhobza, **Accelerating Random Forest on Memory-Constrained Devices through Data Storage Reorganization**
@@ -42,13 +42,13 @@ header:
   + Mohand Hamadouche, **Prise de décision distribuée et embarquée dans les systèmes autonomes multi-UAV pour une sécurité des services**
 
 #### Session Informatique quantique
-  **Chair:** TBA
+  **Chair:** Sonia Ben Mokhtar
 
   + Gabriella Bettonte, Stéphane Louise and Renaud Sirdey, **Two real-time applications of quantum computing for the evaluation of WCETs**
   + Maxime Jonval, Henri-Pierre Charles, Caroline Collange and Maha Kooli, **Vers une plate-forme de simulation d’architecture hybride quantique-classique**
 
 #### Session Discussion
-  **Chair:** TBA
+  **Chair:** Gilles Grimaud
 
   + David Monniaux, **Problème ouvert et recherche de collaborations, autour du compilateur certifié CompCert**
 
@@ -57,7 +57,7 @@ header:
 ### Mercredi 7
 
 #### Session Architectures matérielles avancées
- **Chair:** TBA
+ **Chair:** Hamza Ouranoughi
 
   + Mael Tourres, Bertrand Le Gal, Jérémie Crenne, Cyrille Chavet and Philippe Coussy, **Architecture matérielle programmable optimisée pour les systèmes de communications numériques**
   + Romain Mercier, Cédric Killian, Angeliki Kritikakou, Youri Helen and Daniel Chillet, **BiSu: A Low Cost Bit-Shuffling Technique for Permanent Fault Mitigation in NoC Architecture**
@@ -66,7 +66,7 @@ header:
   + Kenelm Louetsi, David Parello and Bernard Goossens, **Un environnement de développement d’applications sur un processeur à beaucoup de cœurs parallélisant**
 
 #### Session Optimisation
-**Chair:** TBA
+**Chair:** Pierre Sutra
 
   + Nathan Maurice, Julien Sopena and Lionel Lacassagne, **Un nouvel algorithme efficace de Split & Merge pour systèmes embarqués**
   + Célia Mahamdi, Jonathan Lejeune, Julien Sopena, Pierre Sens and Mesaac Makpangou, **Réduire le coût de communication des algorithmes à phases par l’agrégation de messages : application à Paxos**
@@ -78,14 +78,14 @@ header:
 ### Jeudi 8
 
 #### Session Systèmes d'exploitation
- **Chair:** TBA
+ **Chair:** Boris Teabe
 
   + Hugo Lefeuvre, Vlad-Andrei Badoiu, Stefan Lucian Teodorescu, Pierre Olivier, Tiberiu Mosnoi, Razvan Deaconescu, Felipe Huici and Costin Raiciu, **FlexOS : Vers une Isolation Flexible du Noyau**
   + Nicolas Dejon, Chrystel Gaber and Gilles Grimaud, **Compartimentation dynamique imbriquée pour objets contraints**
   + Yohan Pipereau, Gaël Thomas and Mathieu Bacou, **Scalevisor : un hyperviseur désaggrégé pour le rack**
 
 #### Session Sécurité
- **Chair:** TBA
+ **Chair:** Laurent Réveillère
 
   + Mozhdeh Farhadi, Guillaume Pierre and Daniele Miorandi, **Towards Fog-based automated application privacy compliance checking**
   + Fatma-Zohra El Hattab, Rania Talbi, Sara Bouchenak and Vlad Nitu, **Towards Mitigating Poisoning Attacks in FederatedLearning**
@@ -98,7 +98,7 @@ header:
 ### Vendredi 9
 
 #### Session HPC
- **Chair:** TBA
+ **Chair:** Hugo Brunie
 
   + Philippe Swartvagher, **Interactions entre calculs et communications au sein des systèmes HPC distribués**
   + Amal Gueroudji, Julien Bigot and Bruno Raffin, **Preliminary Experiments in Coupling in situ Dask analytics with MPI Simulations**
@@ -107,13 +107,13 @@ header:
   + Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten, **Collecte de ressources libres dans une grille en préservant le système de fichiers : une approche autonomique**
 
 #### Session Gestion mémoire
- **Chair:** TBA
+ **Chair:** Cedric Courtaud
 
   + Erwan Lenormand, Thierry Goubier, Loïc Cudennec and Henri-Pierre Charles, **Modèle de programmation pour noyaux de calcul irréguliers sur accélérateur reconfigurable dans un système distribué hétérogène**
   + Ana Khorguani, Thomas Ropars and Noel De Palma, **Trade-off between performance and transparency for in-NVMM checkpointing**
 
 #### Session WCET
- **Chair:** TBA
+ **Chair:** Jalil Boukhobza
 
   + Sandro Grebant, **Efficient tree-based symbolic WCET computation**
   + Zhenyu Bai, Hugues Cassé, Marianne De Michiel, Thomas Carle and Christine Rochange, **Déterminer le WCET d’applications temps-réel en présence de latences d’exécution variables**
