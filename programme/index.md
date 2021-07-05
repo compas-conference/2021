@@ -27,6 +27,15 @@ header:
 
 
 -----------------------------------------------
+## Connexion
+-----------------------------------------------
+Afin de conserver l'esprit de Compas où les discussions entre les membres des différentes communautés sont importantes, l'édition 2021 sera organisée sur la plate-forme WonderMe. Le lien de connexion est le suivant: 
+
+[https://tinyurl.com/COMPAS21](https://tinyurl.com/COMPAS21)
+
+L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la conférence, vous avez du recevoir ce mot de passe par email. Si vous souhaitez rejoindre la conférence, merci d'envoyer un email à [Eddy.Caron@ens-lyon.fr](mailto:eddy.caron@ens-lyon.fr) ou [Frederic.Suter@cc.in2p3.fr](mailto:frederic.suter@cc.in2p3.fr).
+
+-----------------------------------------------
 ## Programe détaillé 
 -----------------------------------------------
 
