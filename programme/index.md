@@ -90,7 +90,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
  **Chair:** Boris Teabe
 
   + **8h30** -- Hugo Lefeuvre, Vlad-Andrei Badoiu, Stefan Lucian Teodorescu, Pierre Olivier, Tiberiu Mosnoi, Razvan Deaconescu, Felipe Huici and Costin Raiciu, **FlexOS : Vers une Isolation Flexible du Noyau**
-  + **8h55** -- Nicolas Dejon, Chrystel Gaber and Gilles Grimaud, **Compartimentation dynamique imbriquée pour objets contraints**
+  + **8h55** -- Nicolas Dejon, Chrystel Gaber and Gilles Grimaud, **[Compartimentation dynamique imbriquée pour objets contraints](../assets/slides/CompartimentationDynamiqueImbriqueePourObjetsContraints-NicolasDEJON-COMPAS2021.pdf)**
   + **9h20** -- Yohan Pipereau, Gaël Thomas and Mathieu Bacou, **Scalevisor : un hyperviseur désaggrégé pour le rack**
 
 #### Session Sécurité
@@ -113,7 +113,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
   + **8h55** -- Amal Gueroudji, Julien Bigot and Bruno Raffin, **Preliminary Experiments in Coupling in situ Dask analytics with MPI Simulations**
   + **9h20** -- Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Patrick Carribault and Denis Barthou, **Tools for Efficient MPI Nonblocking Communications**
   + **9h45** -- Emmanuel Agullo, Marek Felsoci and Guillaume Sylvand, **Comparison of coupled solvers for FEM/BEM linear systems arising from discretization of aeroacoustic problems**
-  + **10h10** -- Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten, **Collecte de ressources libres dans une grille en préservant le système de fichiers : une approche autonomique**
+  + **10h10** -- Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten, **[Collecte de ressources libres dans une grille en préservant le système de fichiers : une approche autonomique](../assets/slides/COMPAS21_Slides_Guilloteau_Collecte_ressources_libres_approche_autonomique.pdf)**
 
 #### Session Gestion mémoire
  **Chair:** Cedric Courtaud
