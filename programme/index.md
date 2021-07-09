@@ -91,7 +91,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
 
   + **8h30** -- Hugo Lefeuvre, Vlad-Andrei Badoiu, Stefan Lucian Teodorescu, Pierre Olivier, Tiberiu Mosnoi, Razvan Deaconescu, Felipe Huici and Costin Raiciu, **FlexOS : Vers une Isolation Flexible du Noyau**
   + **8h55** -- Nicolas Dejon, Chrystel Gaber and Gilles Grimaud, **[Compartimentation dynamique imbriquée pour objets contraints](../assets/slides/CompartimentationDynamiqueImbriqueePourObjetsContraints-NicolasDEJON-COMPAS2021.pdf)**
-  + **9h20** -- Yohan Pipereau, Gaël Thomas and Mathieu Bacou, **Scalevisor : un hyperviseur désaggrégé pour le rack**
+  + **9h20** -- Yohan Pipereau, Gaël Thomas and Mathieu Bacou, **[Scalevisor : un hyperviseur désaggrégé pour le rack](../assets/slides/pipereau.pdf)**
 
 #### Session Sécurité
  **Chair:** Laurent Réveillère
@@ -118,7 +118,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
 #### Session Gestion mémoire
  **Chair:** Cedric Courtaud
 
-  + **10h50** -- Erwan Lenormand, Thierry Goubier, Loïc Cudennec and Henri-Pierre Charles, **Modèle de programmation pour noyaux de calcul irréguliers sur accélérateur reconfigurable dans un système distribué hétérogène**
+  + **10h50** -- Erwan Lenormand, Thierry Goubier, Loïc Cudennec and Henri-Pierre Charles, **[Modèle de programmation pour noyaux de calcul irréguliers sur accélérateur reconfigurable dans un système distribué hétérogène](../assets/slides/compas-2021-pres.pdf)**
   + **11h15** -- Ana Khorguani, Thomas Ropars and Noel De Palma, **Trade-off between performance and transparency for in-NVMM checkpointing**
 
 #### Session WCET
