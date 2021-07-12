@@ -112,7 +112,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
   + **8h30** -- Philippe Swartvagher, **Interactions entre calculs et communications au sein des systèmes HPC distribués**
   + **8h55** -- Amal Gueroudji, Julien Bigot and Bruno Raffin, **Preliminary Experiments in Coupling in situ Dask analytics with MPI Simulations**
   + **9h20** -- Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Patrick Carribault and Denis Barthou, **Tools for Efficient MPI Nonblocking Communications**
-  + **9h45** -- Emmanuel Agullo, Marek Felsoci and Guillaume Sylvand, **Comparison of coupled solvers for FEM/BEM linear systems arising from discretization of aeroacoustic problems**
+  + **9h45** -- Emmanuel Agullo, Marek Felsoci and Guillaume Sylvand, **[Comparison of coupled solvers for FEM/BEM linear systems arising from discretization of aeroacoustic problems](../assets/slides/Felsoci-compas-21.pdf)**
   + **10h10** -- Quentin Guilloteau, Olivier Richard, Bogdan Robu and Eric Rutten, **[Collecte de ressources libres dans une grille en préservant le système de fichiers : une approche autonomique](../assets/slides/COMPAS21_Slides_Guilloteau_Collecte_ressources_libres_approche_autonomique.pdf)**
 
 #### Session Gestion mémoire
@@ -125,5 +125,5 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
  **Chair:** Jalil Boukhobza
 
   + **11h40** -- Sandro Grebant, **Efficient tree-based symbolic WCET computation**
-  + **12h05** -- Zhenyu Bai, Hugues Cassé, Marianne De Michiel, Thomas Carle and Christine Rochange, **Déterminer le WCET d’applications temps-réel en présence de latences d’exécution variables**
+  + **12h05** -- Zhenyu Bai, Hugues Cassé, Marianne De Michiel, Thomas Carle and Christine Rochange, **[Déterminer le WCET d’applications temps-réel en présence de latences d’exécution variables](../assets/slides/Presentation_XDD.pdf)**
 
