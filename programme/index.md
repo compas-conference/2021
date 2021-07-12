@@ -45,7 +45,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
   **Chair:** Mihail Popov
 
   + **8h30** -- Hadjer Benmeziane, Kaoutar El Maghraoui, Hamza Ouarnoughi, Smail Niar, Martin Wistuba and Naigang Wang, **Hardware-Aware Neural Architecture Search: Survey and Taxonomy**
-  + **8h55** -- Camelia Slimani, Stéphane Rubini, Chun-Feng Wu, Yuan-Hao Chang and Jalil Boukhobza, **Accelerating Random Forest on Memory-Constrained Devices through Data Storage Reorganization**
+  + **8h55** -- Camelia Slimani, Stéphane Rubini, Chun-Feng Wu, Yuan-Hao Chang and Jalil Boukhobza, **[Accelerating Random Forest on Memory-Constrained Devices through Data Storage Reorganization](../assets/slides/presentation_compas_2021_papier13.pdf)**
   + **9h20** -- Yasmine Djebrouni, Vania Marangozova-Martin and Sara Bouchenak, **Characterizing Distributed Machine Learning and Deep Learning Workloads**
   + **9h45** -- Lynda Ferraguig, Yasmine Djebrouni, Sara Bouchenak and Vania Marangozova-Martin, **Survey of Bias Mitigation in Federated Learning**
   + **10h10** -- Mohand Hamadouche, **Prise de décision distribuée et embarquée dans les systèmes autonomes multi-UAV pour une sécurité des services**
@@ -96,7 +96,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
 #### Session Sécurité
  **Chair:** Laurent Réveillère
 
-  + **10h00** -- Mozhdeh Farhadi, Guillaume Pierre and Daniele Miorandi, **Towards Fog-based automated application privacy compliance checking**
+  + **10h00** -- Mozhdeh Farhadi, Guillaume Pierre and Daniele Miorandi, **[Towards Fog-based automated application privacy compliance checking](../assets/slides/Slides-Farhadi-paper5.pdf)**
   + **10h25** -- Fatma-Zohra El Hattab, Rania Talbi, Sara Bouchenak and Vlad Nitu, **Towards Mitigating Poisoning Attacks in FederatedLearning**
   + **10h50** -- Clément Boin, Xavier Guillaume, Bastien Dhiver, Tristan Groléat, Michaël Hausipe and Gilles Grimaud, **Étude de la littérature de détection d’attaques DDoS appliquées à un cloud provider**
   + **11h15** -- Olivier Lourme and Michaël Hauspie, **Sécurité dans l’IoT : Contribution à l’adoption des IDS**
