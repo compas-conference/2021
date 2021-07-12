@@ -126,4 +126,3 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
 
   + **11h40** -- Sandro Grebant, **Efficient tree-based symbolic WCET computation**
   + **12h05** -- Zhenyu Bai, Hugues Cassé, Marianne De Michiel, Thomas Carle and Christine Rochange, **[Déterminer le WCET d’applications temps-réel en présence de latences d’exécution variables](../assets/slides/Presentation_XDD.pdf)**
-
