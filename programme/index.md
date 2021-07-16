@@ -99,7 +99,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
   + **10h00** -- Mozhdeh Farhadi, Guillaume Pierre and Daniele Miorandi, **[Towards Fog-based automated application privacy compliance checking](../assets/slides/Slides-Farhadi-paper5.pdf)**
   + **10h25** -- Fatma-Zohra El Hattab, Rania Talbi, Sara Bouchenak and Vlad Nitu, **Towards Mitigating Poisoning Attacks in FederatedLearning**
   + **10h50** -- Clément Boin, Xavier Guillaume, Bastien Dhiver, Tristan Groléat, Michaël Hausipe and Gilles Grimaud, **Étude de la littérature de détection d’attaques DDoS appliquées à un cloud provider**
-  + **11h15** -- Olivier Lourme and Michaël Hauspie, **Sécurité dans l’IoT : Contribution à l’adoption des IDS**
+  + **11h15** -- Olivier Lourme and Michaël Hauspie, **[Sécurité dans l’IoT : Contribution à l’adoption des IDS](../assets/slides/OlivierLOURME-Compas2021.pdf)**
   + **11h40** -- Mohammed-Amine Hsaini, Mohand Hamadouche and Catherine Dezan, **Classifieur embarqué pour la détection d’intrusions dans le contexte des véhicules autonomes**
 
 -----------------------------------------------
