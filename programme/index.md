@@ -119,7 +119,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
  **Chair:** Cedric Courtaud
 
   + **10h50** -- Erwan Lenormand, Thierry Goubier, Loïc Cudennec and Henri-Pierre Charles, **[Modèle de programmation pour noyaux de calcul irréguliers sur accélérateur reconfigurable dans un système distribué hétérogène](../assets/slides/compas-2021-pres.pdf)**
-  + **11h15** -- Ana Khorguani, Thomas Ropars and Noel De Palma, **Trade-off between performance and transparency for in-NVMM checkpointing**
+  + **11h15** -- Ana Khorguani, Thomas Ropars and Noel De Palma, **[Trade-off between performance and transparency for in-NVMM checkpointing](../assets/slides/in-NVMM checkpointing.pdf)**
 
 #### Session WCET
  **Chair:** Jalil Boukhobza
