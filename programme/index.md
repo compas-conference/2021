@@ -71,7 +71,7 @@ L'accès est protégé par mot de passe. Si vous êtes auteur ou inscrit à la c
   + **8h30** -- Mael Tourres, Bertrand Le Gal, Jérémie Crenne, Cyrille Chavet and Philippe Coussy, **Architecture matérielle programmable optimisée pour les systèmes de communications numériques**
   + **8h55** -- Romain Mercier, Cédric Killian, Angeliki Kritikakou, Youri Helen and Daniel Chillet, **[BiSu: A Low Cost Bit-Shuffling Technique for Permanent Fault Mitigation in NoC Architecture](../assets/slides/MercierRomain_Presentation_COMPAS.pdf)**
   + **9h20**  -- Kevin J. M. Martin, Satyajit Das, Rohit Prasad and Philippe Coussy, **Calcul flottant et transprécision sur CGRA**
-  + **9h45** -- Arthur Blanleuil and Caroline Collange, **Scheduling paths leveraging dynamic information in SIMT architectures**
+  + **9h45** -- Lily Blanleuil and Caroline Collange, **Scheduling paths leveraging dynamic information in SIMT architectures**
   + **10h10** -- Kenelm Louetsi, David Parello and Bernard Goossens, **Un environnement de développement d’applications sur un processeur à beaucoup de cœurs parallélisant**
 
 #### Session Optimisation
